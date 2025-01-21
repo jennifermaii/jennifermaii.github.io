@@ -1,10 +1,9 @@
-body {
-  background-color:#lightblue;
-}
-
 h1 { 
   color: #FCC700; 
   font-family: "Gill Sans", sans-serif;
 }
 
-
+h2 {
+color: dimgrey; 
+  font-family: "Gill Sans", sans-serif;
+}
