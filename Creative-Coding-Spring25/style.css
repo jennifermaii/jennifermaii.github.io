@@ -11,3 +11,13 @@ h2{
 color: dimgrey; 
   font-family: "Gill Sans", sans-serif;
 }
+
+h3{
+  color: dimgrey; 
+  font-family: system-ui;
+}
+
+p{
+  color: dimgrey; 
+  font-family: system-ui;
+}
