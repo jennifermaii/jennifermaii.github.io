@@ -1,7 +1,10 @@
 body {
   background-color:#lightblue;
 }
-#sky{
-  position:relative;
-  left:100px;
+
+h1 { 
+  color: #FCC700; 
+  font-family: "Gill Sans", sans-serif;
 }
+
+
